@@ -17,4 +17,5 @@
   
 ### 참고 자료
 - https://github.com/facebook/react
+- https://react.dev/
 - https://jser.dev/series/react-source-code-walkthrough
